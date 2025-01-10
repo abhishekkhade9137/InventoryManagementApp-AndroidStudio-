@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/allerta_stencil</item>
+        <item>@font/alumni_sans_collegiate_one</item>
+        <item>@font/amita_bold</item>
+        <item>@font/fjalla_one</item>
+        <item>@font/rock_salt</item>
+        <item>@font/rubik_spray_paint</item>
+        <item>@font/vampiro_one</item>
+    </array>
+</resources>
