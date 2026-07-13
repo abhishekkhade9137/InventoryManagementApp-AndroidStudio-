@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
-        android:id="@+id/navigation_dashboard"
-        android:icon="@drawable/dashboard"
-        android:title="@string/title_dashboard" />
-
-    <item
         android:id="@+id/navigation_store"
         android:icon="@drawable/store"
-        android:title="@string/title_store" />
+        android:title="Inventory" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/dashboard"
+        android:title="Dashboard" />
 
     <item
         android:id="@+id/navigation_issue"
         android:icon="@drawable/issue"
-        android:title="@string/title_issue" />
-
-
+        android:title="Reports" />
 </menu>

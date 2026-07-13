@@ -26,7 +26,7 @@
         android:layout_width="379dp"
         android:layout_height="77dp"
         android:fontFamily="casual"
-        android:text="QuarterMaster"
+        android:text="InventoryApp"
         android:textAlignment="center"
         android:textColor="#D63D3D"
         android:textSize="48sp"

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">QuarterMaster package</string>
+    <string name="app_name">Inventory App</string>
     <string name="title_store">Store</string>
     <string name="title_issue">Issue</string>
     <string name="title_dashboard">Dashboard</string>

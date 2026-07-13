@@ -1,4 +1,4 @@
-package com.example.quartermasterpackage;
+package com.example.inventoryapp;
 
 import org.junit.Test;
 

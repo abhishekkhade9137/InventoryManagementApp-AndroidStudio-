@@ -1,4 +1,4 @@
-package com.example.quartermasterpackage;
+package com.example.inventoryapp;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -16,13 +16,11 @@ public class splash_screen extends AppCompatActivity {
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
-                // Start the main activity after the delay
+                // Skip login - go directly to MainActivity
                 Intent mainIntent = new Intent(splash_screen.this, MainActivity.class);
                 startActivity(mainIntent);
-
-                // Close the splash activity to prevent going back to it
                 finish();
             }
-        }, 3000); // 3000 milliseconds = 3 seconds
+        }, 2000); // 2 seconds
     }
 }
